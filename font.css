@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+#chude{
+	font-weight: lighter;
+	font-size: 50px;
+	color: #0087FF;
+	line-height: 20px;
+	text-align: center;
+}
+#vanban{
+	font-weight: bold;
+	font-size: 20px;
+	color: red;
+	line-height: 35px;
+	font-family: arial;
+}
+#thu{
+	font-weight: bold;
+	font-size: 20px;
+	color: red;
+	font-family: arial;
+}
+#lich{
+	font-weight: bold;
+	font-size: 20px;
+	color: #084FFF;
+	font-family: arial;
+}
+#mon{
+	font-weight: bold;
+	font-size: 20px;
+	color: #00FF17;
+	font-family: arial;
+	text-align: center;
+}
+body{ background-image: url("https://i.pinimg.com/originals/2d/18/43/2d1843672a62b54f6401d20f19a2d24c.jpg"); }
