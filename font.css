@@ -1,12 +1,42 @@
 @charset "utf-8";
 
+body{ 
+	margin :0;
+	background-image: url(https://i.pinimg.com/originals/2d/18/43/2d1843672a62b54f6401d20f19a2d24c.jpg);
+	z-index: 3;
+}
+
+#video{
+	width: 501px;
+	height: 313px;
+	position: absolute;
+	top: 150px;
+	right: 30px;	
+}
+
+#danhsach{
+	margin-top: 100px;
+	margin-left: 140px;
+}
+
+#amnhac{
+	margin-top: 20px;
+	margin-left: 140px;
+	font-weight: bold;
+	color: red;
+	font-size: 20px;
+	font-family: arial;
+}
+
 #chude{
 	font-weight: lighter;
 	font-size: 50px;
 	color: #0087FF;
-	line-height: 20px;
-	text-align: center;
+	line-height: 10px;
+	text-align: center; 
+
 }
+
 #vanban{
 	font-weight: bold;
 	font-size: 20px;
@@ -33,4 +63,13 @@
 	font-family: arial;
 	text-align: center;
 }
-body{ background-image: url("https://i.pinimg.com/originals/2d/18/43/2d1843672a62b54f6401d20f19a2d24c.jpg"); }
+
+#trangchu{
+	font-style: normal;
+	font-weight: bolder;
+	font-family: arial;
+	font-size: 17px;
+	color: red;
+	margin-left: 15px;
+}
+
