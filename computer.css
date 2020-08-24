@@ -1,0 +1,159 @@
+@charset "utf-8";
+
+body{
+	margin: 0px;
+	background-color: 	#e6fff8;
+}
+
+.chude{
+	background-color: yellow;
+	position: absolute;
+	width: 1000px;
+	height: 80px;
+	z-index: 5;
+	left: 150px;
+	top: 0px;
+	border: 5px solid red;
+	border-radius: 20px;
+
+	font-size: 80px;
+	color: green;
+	font-weight: bolder;
+	margin: auto;
+}
+
+#phan1{
+	background-color: #D4E6F1;
+	position: absolute;
+	width: 185px;
+	height: 50px;
+	top: 120px;
+	left: 500px;
+	border: 3px dotted red;
+	border-radius: 20px;
+
+	font-size: 23px;
+	color: #D35400;
+}
+
+#thongbao{
+	background-color: #7DCEA0;
+	width: 120px;
+	height: 500px;
+	position: fixed;
+	top: 100px;
+	right: 5px;
+	z-index: 3;
+	border: 3px solid #F4D03F;
+	border-radius: 20px;
+
+}
+
+
+#icon{
+	height: 110px;
+	width: 110px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	border-color: red;
+	border-width: 2px;
+	border-style: dotted;
+	border-radius: 110px;
+	z-index: 10; 
+}
+
+#trove{
+	background-color: #3498DB;
+	position: absolute;
+	height: 50px;
+	width: 100px;
+	top: 1130px;
+	left: 10px;
+	border: 3px solid #2ECC71;
+	border-radius: 20px;
+
+	font-family: arial;
+	font-size: 18px;
+	color: #7D3C98;
+	font-weight: bolder;
+}
+
+#toi{
+	height: 300px;
+	width: 450px;
+	position: absolute;
+	top: 220px;
+	left: 50px;
+	border: 3px solid #2C3E50;
+	border-radius: 50px;
+}
+
+#khunggioithieu{
+	background-color: #58D68D;
+	position: absolute;
+	height: 320px;
+	width: 560px;
+	top: 210px;
+	right: 160px;
+
+	border: 3px solid yellow;
+	border-radius: 50px;
+}
+
+#gioithieu{
+	margin-left: 20px;
+	font-size: 20px;
+	font-weight: inherit;
+}
+
+#phan2{
+	background-color: #D4E6F1;
+	position: absolute;
+	width: 200px;
+	height: 60px;
+	top: 600px;
+	left: 500px;
+	border: 3px dotted red;
+	border-radius: 20px;
+
+	font-size: 23px;
+	color: #D35400;
+}
+
+#danhsach{
+	background-color: #A9CCE3;
+	position: absolute;
+	height: 240px;
+	width: 450px;
+	top: 720px;
+	left: 50px;
+	border: 3px solid #2C3E50;
+	border-radius: 50px;
+
+	font-size: 20px;
+	color: red;
+}
+
+#video{
+	background-color: #7DCEA0;
+	position: absolute;
+	height: 350px;
+	width: 560px;
+	top: 700px;
+	right: 160px;
+	border: 3px solid yellow;
+	border-radius: 50px;
+}
+
+#amnhac{
+	background-color: #F4D03F;
+	position: absolute;
+	height: 70px;
+	width: 310px;
+	top: 980px;
+	left: 110px;
+	border: 3px solid #52BE80;
+	border-radius: 20px;
+}
+
